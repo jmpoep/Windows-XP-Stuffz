@@ -2,6 +2,8 @@
 
 *Updates, programs, and files for Windows XP, some of which are hard to find because Microsoft took them down.*
 
+See also my equivalent repos [Windows-2000-Stuffz](https://github.com/Alex313031/Windows-2000-Stuffz) and [Windows-7-Stuffz](https://github.com/Alex313031/Windows-7-Stuffz).
+
 ### <ins>Files</ins>
 
 __directx_Jun2010_redist.exe__ - Latest DirectX redistributable files for XP - 7.
